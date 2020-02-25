@@ -38,9 +38,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+Here's a simple footnote,[^hello] and here's a longer one.[^bignote]
 
-[^1]: This is the first footnote.
+[^hello]: This is the first footnote.
 
 [^bignote]: Here's one with multiple paragraphs and code.
 
