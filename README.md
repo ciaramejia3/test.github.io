@@ -4,13 +4,13 @@ For testing and development, we will create a Q0# batch.
 
 ### Copy and Paste
 
-First, go to your development library (5DEV). There, copy the K3S_3Q01, which will be the outline program, found in the QRPGLESRC file from your 5MOD library and pasting it into the 5DEV library.
+First, go to the development library (5DEV). There, copy the K3S_3Q01, which will be the outline program, found in the QRPGLESRC file from the 5MOD library and paste it into 5DEV.
 
 
 
-![Screen Shot 2020-02-26 at 9.28.05 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png) {:height="36px" width="36px"}
+![Screen Shot 2020-02-26 at 9.28.05 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png)
 
-![Screen Shot 2020-02-26 at 9.33.34 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png) {:height="36px" width="36px"}
+![Screen Shot 2020-02-26 at 9.33.34 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png)
 
 
 This will prompt the CPYSRCF. This is a way to make sure the information is correct. Once viewed, click OK.
@@ -21,9 +21,7 @@ This will prompt the CPYSRCF. This is a way to make sure the information is corr
 
 ### Edit the Program 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Gone camping! :tent: Be back soon.
+Edit the program based on the needs of the customer. 
 
 ```markdown
 Syntax highlighted code block
