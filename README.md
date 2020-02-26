@@ -11,7 +11,7 @@ First, go to the development library (5DEV). There, copy the K3S_3Q01, which wil
 ![ScreenShot1]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png) 
 
 
-<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png" width="48px" />
+<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png" width="1500px" />
 
 
 ![Screen Shot 2020-02-26 at 9.33.34 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png) <!-- .element height="20%" width="20%" -->
