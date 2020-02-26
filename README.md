@@ -1,7 +1,10 @@
 ## How to Create a Batch Program
 
 For testing and development, we will create a Q0# batch.
-Go to your Development library. There you will be copying the K3S_3Q01 program found in the QRPGLESRC file from your 5MOD library and pasting it into your 5DEV library.
+
+### Copy and Paste
+
+First, go to your Development library (5DEV). There you will be copying the K3S_3Q01, which will be our outline program, found in the QRPGLESRC file from your 5MOD library and pasting it into your 5DEV library.
 
 
 
@@ -16,7 +19,7 @@ This will prompt you to a CPYSRCF. This is a way to make sure your information i
 ![Screen Shot 2020-02-26 at 9.38.29 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.38.29 AM.png =100x20)
 
 
-### Markdown
+### Edit the Program 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
