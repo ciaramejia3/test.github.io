@@ -8,15 +8,15 @@ First, go to your Development library (5DEV). There you will be copying the K3S_
 
 
 
-![Screen Shot 2020-02-26 at 9.28.05 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png =100x20)
+![Screen Shot 2020-02-26 at 9.28.05 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png)
 
-![Screen Shot 2020-02-26 at 9.33.34 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png =100x20)
+![Screen Shot 2020-02-26 at 9.33.34 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png)
 
 
 This will prompt you to a CPYSRCF. This is a way to make sure your information is correct. Once viewed, click OK.
 
 
-![Screen Shot 2020-02-26 at 9.38.29 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.38.29 AM.png =100x20)
+![Screen Shot 2020-02-26 at 9.38.29 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.38.29 AM.png)
 
 
 ### Edit the Program 
