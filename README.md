@@ -5,15 +5,15 @@ Go to your Development library. There you will be copying the K3S_3Q01 program f
 
 
 
-![ScreenShot1]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png =100x20)
+![Screen Shot 2020-02-26 at 9.28.05 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png =100x20)
 
-![ScreenShot2]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png =100x20)
+![Screen Shot 2020-02-26 at 9.33.34 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png =100x20)
 
 
 This will prompt you to a CPYSRCF. This is a way to make sure your information is correct. Once viewed, click OK.
 
 
-![ScreenShot3]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.38.29 AM.png =100x20) 
+![Screen Shot 2020-02-26 at 9.38.29 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.38.29 AM.png =100x20)
 
 
 ### Markdown
