@@ -8,9 +8,9 @@ First, go to the development library (5DEV). There, copy the K3S_3Q01, which wil
 
 
 
-![Screen Shot 2020-02-26 at 9.28.05 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png)
+![Screen Shot 2020-02-26 at 9.28.05 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png) <!-- .element height="50%" width="50%" -->
 
-![Screen Shot 2020-02-26 at 9.33.34 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png)
+![Screen Shot 2020-02-26 at 9.33.34 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png) <!-- .element height="50%" width="50%" -->
 
 
 This will prompt the CPYSRCF. This is a way to make sure the information is correct. Once viewed, click OK.
@@ -21,14 +21,8 @@ This will prompt the CPYSRCF. This is a way to make sure the information is corr
 
 ### Edit the Program 
 
-Edit the program based on the needs of the customer. 
+Edit the program as needed.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
