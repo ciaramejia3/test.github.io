@@ -9,10 +9,12 @@ First, go to the development library (5DEV). There, copy the K3S_3Q01, which wil
 <p align="center">
 
 <img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png" width="500px" />
+
 </p>
 
 <p align="center">
-<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png)" width="500px" />
+  <img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png" width="500px" />
+
 </p>
 
 
