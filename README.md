@@ -1,8 +1,10 @@
-## Documentation 
+## How to Create a Batch Program
 
-You can use the [editor on GitHub](https://github.com/ciaramejia3/test.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+For testing and development, we will create a Q0# batch.
+Go to your Development library. There you will be copying the K3S_3Q01 program from your 5MOD library and pasting it into your 5DEV library.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Screen Shot 2020-02-26 at 9.28.05 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png)
+
 
 ### Markdown
 
