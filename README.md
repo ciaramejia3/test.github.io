@@ -21,7 +21,11 @@ First, go to the development library (5DEV). There, copy the K3S_3Q01, which wil
 This will prompt the CPYSRCF. This is a way to make sure the information is correct. Once viewed, click OK.
 
 
-![Screen Shot 2020-02-26 at 9.38.29 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.38.29 AM.png)
+<p align="center">
+
+<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.38.29 AM.png" width="500px" />
+
+</p>
 
 
 ### Edit the Program 
