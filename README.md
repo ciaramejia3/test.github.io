@@ -6,14 +6,14 @@ For testing and development, we will create a Q0# batch.
 
 First, go to the development library (5DEV). There, copy the K3S_3Q01, which will be the outline program, found in the QRPGLESRC file from the 5MOD library and paste it into 5DEV.
 
-
+<p align="center">
 
 <img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png" width="500px" />
 
 
-<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png)" width="500px" class=center />
+<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png)" width="500px" />
 
-
+</p>
 
 This will prompt the CPYSRCF. This is a way to make sure the information is correct. Once viewed, click OK.
 
