@@ -8,9 +8,9 @@ First, go to your development library (5DEV). There, copy the K3S_3Q01, which wi
 
 
 
-![Screen Shot 2020-02-26 at 9.28.05 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png)
+![Screen Shot 2020-02-26 at 9.28.05 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png) {:height="36px" width="36px"}
 
-![Screen Shot 2020-02-26 at 9.33.34 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png)
+![Screen Shot 2020-02-26 at 9.33.34 AM.png]({{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png) {:height="36px" width="36px"}
 
 
 This will prompt the CPYSRCF. This is a way to make sure the information is correct. Once viewed, click OK.
