@@ -1,6 +1,8 @@
 ## How to Create a Batch Program
 
-For testing and development, we will create a Q0# batch.
+A batch is created when a customer would like to view and work with a list of flitered items. For testing and development, we will create a Q0# batch. 
+
+In this example, we will be gathering a list of products that have a lead time greater than 30 days. 
 
 ### Copy and Paste
 
@@ -8,12 +10,12 @@ First, go to the development library (5DEV). There, copy the K3S_3Q01, which wil
 
 <p align="center">
 
-<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png" width="700px" />
+<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png" width="600px" />
 
 </p>
 
 <p align="center">
-  <img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png" width="700px" />
+  <img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png" width="600px" />
 
 </p>
 
@@ -23,7 +25,7 @@ This will prompt the CPYSRCF. This is a way to make sure the information is corr
 
 <p align="center">
 
-<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.38.29 AM.png" width="700px" />
+<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.38.29 AM.png" width="600px" />
 
 </p>
 
@@ -34,7 +36,7 @@ Edit the program as needed. In this batch, we will take any product that has a l
 
 <p align="center">
 
-<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 10.03.12 PM.png" width="700px" />
+<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 10.03.12 PM.png" width="600px" />
                                                                                   
 </p>
 
@@ -50,13 +52,13 @@ Right click on the program and compile prompt. Here, there will be an option to 
 
 <p align="center">
 
-<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 10.26.53 PM.png" width="700px" />
+<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 10.26.53 PM.png" width="600px" />
                                                                            
 </p>
 
 <p align="center">
 
-<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 10.31.13 PM.png" width="700px" />
+<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 10.31.13 PM.png" width="600px" />
   
 </p>
 
