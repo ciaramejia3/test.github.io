@@ -65,15 +65,9 @@ Right click on the program and compile prompt. Here, there will be an option to 
 Once attempting to compile, check the Commands log for any errors. 
 
 
+### Test 
 
-Here's a simple footnote,[^hello] and here's a longer one.[^bignote]
+Log into R6, and click on "Batches" and then "Create Batch". There, choose the batch that was just programmed. Once it has finished running, check to make sure all data is correct. 
 
-[^hello]: This is the first footnote.
 
-[^bignote]: Here's one with multiple paragraphs and code.
 
-    Indent paragraphs to include them in the footnote.
-
-    `{ my code }`
-
-    Add as many paragraphs as you like.
