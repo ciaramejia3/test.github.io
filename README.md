@@ -69,5 +69,30 @@ Once attempting to compile, check the Commands log for any errors.
 
 Log into R6, and click on "Batches" and then "Create Batch". There, choose the batch that was just programmed. Once it has finished running, check to make sure all data is correct. 
 
+<p align="center">
+
+<img src="{{site.baseurl}}/Screen Shot 2020-02-27 at 10.46.03 AM.png" width="600px" />
+  
+</p>
+
+
+### Data Check
+
+In Access Client Solutions, run an SQL script to check your data. 
+
+<p align="center">
+
+<img src="{{site.baseurl}}/Screen Shot 2020-02-27 at 11.12.39 AM.png" width="600px" />
+  
+</p>
+
+<p align="center">
+
+<img src="{{site.baseurl}}/Screen Shot 2020-02-27 at 11.10.59 AM.png" width="600px" />
+  
+</p>
+
+
+
 
 
