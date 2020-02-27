@@ -8,12 +8,12 @@ First, go to the development library (5DEV). There, copy the K3S_3Q01, which wil
 
 <p align="center">
 
-<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png" width="500px" />
+<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.28.05 AM.png" width="700px" />
 
 </p>
 
 <p align="center">
-  <img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png" width="500px" />
+  <img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.33.34 AM.png" width="700px" />
 
 </p>
 
@@ -23,7 +23,7 @@ This will prompt the CPYSRCF. This is a way to make sure the information is corr
 
 <p align="center">
 
-<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.38.29 AM.png" width="500px" />
+<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 9.38.29 AM.png" width="700px" />
 
 </p>
 
@@ -34,7 +34,7 @@ Edit the program as needed. In this batch, we will take any product that has a l
 
 <p align="center">
 
-<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 10.03.12 PM.png" width="500px" />
+<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 10.03.12 PM.png" width="700px" />
                                                                                   
 </p>
 
@@ -45,20 +45,23 @@ Once finished, be sure to edit any text documentation within the program.
 
 Now we are ready to compile!
 
-Right click on the program and compile prompt. There, you are given to option to view advanced options. Be sure to have the correct Target Release option picked. 
+Right click on the program and compile prompt. Here, there will be an option to view advanced options. Be sure to have the correct Target Release option picked. 
 
 
 <p align="center">
 
-<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 10.26.53 PM.png" width="500px" />
+<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 10.26.53 PM.png" width="700px" />
                                                                            
 </p>
 
 <p align="center">
 
-<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 10.31.13 PM.png" width="500px" />
+<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 10.31.13 PM.png" width="700px" />
   
 </p>
+
+Once attempting to compile, check the Commands log for any errors. 
+
 
 
 Here's a simple footnote,[^hello] and here's a longer one.[^bignote]
