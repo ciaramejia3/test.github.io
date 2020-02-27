@@ -2,11 +2,11 @@
 
 A batch is created when a customer would like to view and work with a list of flitered items. For testing and development, we will create a Q0# batch. 
 
-In this example, we will be gathering a list of products that have a lead time greater than 30 days. 
+In this example, we will go through 5 steps in gathering a list of products that have a lead time greater than 30 days. 
 
-### Copy and Paste
+### Step 1: Copy and Paste
 
-First, go to the development library (5DEV). There, copy the K3S_3Q01, which will be the outline program, found in the QRPGLESRC file from the 5MOD library and paste it into 5DEV.
+First, go to the development library (5DEV). Then, copy the K3S_3Q01, which will be the outline program, found in the QRPGLESRC file from the 5MOD library and paste it into 5DEV.
 
 <p align="center">
 
@@ -30,7 +30,7 @@ This will prompt the CPYSRCF. This is a way to make sure the information is corr
 </p>
 
 
-### Edit the Program 
+### Step 2: Edit the Program 
 
 Edit the program as needed. In this batch, we will take any product that has a lead time greater than 30 days using fields found in the K_Product PF.
 
@@ -43,7 +43,7 @@ Edit the program as needed. In this batch, we will take any product that has a l
 Once finished, be sure to edit any text documentation within the program. 
 
 
-### Compile
+### Step 3: Compile
 
 Now we are ready to compile!
 
@@ -65,7 +65,7 @@ Right click on the program and compile prompt. Here, there will be an option to 
 Once attempting to compile, check the Commands log for any errors. 
 
 
-### Test 
+### Step 4: Test 
 
 Log into R6, and click on "Batches" and then "Create Batch". There, choose the batch that was just programmed. Once it has finished running, check to make sure all data is correct. 
 
@@ -76,7 +76,7 @@ Log into R6, and click on "Batches" and then "Create Batch". There, choose the b
 </p>
 
 
-### Data Check
+### Step 5: Data Check
 
 In Access Client Solutions, run an SQL script to check your data. 
 
@@ -91,6 +91,8 @@ In Access Client Solutions, run an SQL script to check your data.
 <img src="{{site.baseurl}}/Screen Shot 2020-02-27 at 11.10.59 AM.png" width="600px" />
   
 </p>
+
+These are the steps 
 
 
 
