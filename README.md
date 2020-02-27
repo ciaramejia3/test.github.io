@@ -30,29 +30,36 @@ This will prompt the CPYSRCF. This is a way to make sure the information is corr
 
 ### Edit the Program 
 
-Edit the program as needed.
+Edit the program as needed. In this batch, we will take any product that has a lead time greater than 30 days using fields found in the K_Product PF.
+
+<p align="center">
+
+<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 10.03.12 PM.png" width="500px" />
+                                                                                  
+</p>
+
+Once finished, be sure to edit any text documentation within the program. 
 
 
-- Bulleted
-- List
+### Compile
 
-1. Numbered
-2. List
+Now we are ready to compile!
 
-**Bold** and _Italic_ and `Code` text
+Right click on the program and compile prompt. There, you are given to option to view advanced options. Be sure to have the correct Target Release option picked. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p align="center">
 
-### Jekyll Themes
+<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 10.26.53 PM.png" width="500px" />
+                                                                           
+</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ciaramejia3/test.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p align="center">
 
-### Support or Contact
+<img src="{{site.baseurl}}/Screen Shot 2020-02-26 at 10.31.13 PM.png" width="500px" />
+  
+</p>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 Here's a simple footnote,[^hello] and here's a longer one.[^bignote]
 
