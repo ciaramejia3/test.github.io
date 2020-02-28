@@ -94,7 +94,7 @@ In Access Client Solutions, run an SQL script to check your data.
 </p>
 
 
-These are the steps 
+These are the steps in creating a batch program.
 
 
 
