@@ -97,6 +97,28 @@ In Access Client Solutions, run an SQL script to check your data.
 These are the steps in creating a batch program.
 
 
+## Editing a "Your Space"
+
+There are specific spaces in a table for clients to customize what their view. These are called "Your Space". For testing and development, we are going to create a "Your Space".
+
+### Step one: Change Description in Table Codes
+
+View Table Codes in YSP- Your space for Subfiles. 
+
+![Screen Shot 2020-02-28 at 12.45.15 PM.png]({{site.baseurl}}/Screen Shot 2020-02-28 at 12.45.15 PM.png)
+
+Here, we will see different sets of table codes.
+
+![Screen Shot 2020-02-28 at 12.48.10 PM.png]({{site.baseurl}}/Screen Shot 2020-02-28 at 12.48.10 PM.png)
+
+
+Table Code-
+
+k3s_1010: Edits description in the "Suppliers" table
+k3s_1015: Edits description in the "Suggested Orders" table
+k3s_1030: Edits description in the "Products on Suggested Order" table
+k3s_8000: Edits description in the "All Locations" table (There are a total of 3 pages)
+
 
 
 
