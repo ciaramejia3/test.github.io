@@ -114,10 +114,10 @@ Here, we will see different sets of table codes.
 
 Table Code-
 
-k3s_1010: Edits description in the "Suppliers" table
-k3s_1015: Edits description in the "Suggested Orders" table
-k3s_1030: Edits description in the "Products on Suggested Order" table
-k3s_8000: Edits description in the "All Locations" table (There are a total of 3 pages)
+* k3s_1010: Edits description in the "Suppliers" table
+* k3s_1015: Edits description in the "Suggested Orders" table
+* k3s_1030: Edits description in the "Products on Suggested Order" table
+* k3s_8000: Edits description in the "All Locations" table (There are a total of 3 pages)
 
 
 
