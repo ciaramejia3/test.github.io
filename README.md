@@ -82,15 +82,17 @@ In Access Client Solutions, run an SQL script to check your data.
 
 <p align="center">
 
+<img src="{{site.baseurl}}/Screen Shot 2020-02-27 at 11.10.59 AM.png" width="600px" />
+  
+</p>
+
+
+<p align="center">
+
 <img src="{{site.baseurl}}/Screen Shot 2020-02-27 at 11.12.39 AM.png" width="600px" />
   
 </p>
 
-<p align="center">
-
-<img src="{{site.baseurl}}/Screen Shot 2020-02-27 at 11.10.59 AM.png" width="600px" />
-  
-</p>
 
 These are the steps 
 
