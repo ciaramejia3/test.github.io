@@ -118,7 +118,7 @@ Table Code-
 * K3S_1030: Edits description in the "Products on Suggested Order" table
 * K3S_8000: Edits description in the "All Locations" table (There are a total of 3 pages)
 
-In this example, we will edit k3s_1030. Description 3 will change the description seen in K3S. 
+In this example, we will edit k3s_1030 to show the target service level and the achieved service level. Description 3 will change the description seen in K3S. 
 
 ### Step 2: Edit RPG program
 
