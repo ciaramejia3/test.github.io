@@ -101,7 +101,7 @@ These are the steps in creating a batch program.
 
 There are specific spaces in a table for clients to customize what their view. These are called "Your Space". For testing and development, we are going to create a "Your Space".
 
-### Step one: Change Description in Table Codes
+### Step 1: Change Description in Table Codes
 
 View Table Codes in YSP- Your space for Subfiles. 
 
@@ -113,11 +113,16 @@ Here, we will see different sets of table codes.
 
 
 Table Code-
+* K3S_1010: Edits description in the "Suppliers" table
+* K3S_1015: Edits description in the "Suggested Orders" table
+* K3S_1030: Edits description in the "Products on Suggested Order" table
+* K3S_8000: Edits description in the "All Locations" table (There are a total of 3 pages)
 
-* k3s_1010: Edits description in the "Suppliers" table
-* k3s_1015: Edits description in the "Suggested Orders" table
-* k3s_1030: Edits description in the "Products on Suggested Order" table
-* k3s_8000: Edits description in the "All Locations" table (There are a total of 3 pages)
+In this example, we will edit k3s_1030. Description 3 will change the description seen in K3S. 
+
+### Step 2: Edit RPG program
+
+Copy program (K3S_XP####) found in the 5MOD library, into your development library. Make the necessary edits. 
 
 
 
